@@ -1,0 +1,45 @@
+h1 {
+
+}
+
+p {
+  text-align: left;
+  font-size: 12px;
+  font-family: century gothic;
+  color: #919191
+}
+
+p.footer {
+  font-family: century gothic;
+  font-size: 12px;
+  color: #ffffff;
+  text-transform: uppercase;
+  text-shadow: 0 0 14px #ffffff;
+  text-align: center;
+}
+
+ul {
+  list-style: none;
+}
+
+ul li a:hover {background-color: #ffe7a0;}
+a:link {color: #ff3838;}
+a:visited {color: #ff3838;}
+a:hover { text-decoration:none;
+text-shadow: 0 0 7px #5c7761;}
+
+footer {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  height: 115px;
+  padding: 15px;
+  background-color: #f2c335;
+  font-family: century gothic;
+  font-size: 12px;
+  color: #ffffff;
+  text-transform: uppercase;
+  text-shadow: 0 0 14px #ffffff;
+  text-align: center;
+}
